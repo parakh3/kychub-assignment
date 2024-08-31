@@ -137,7 +137,7 @@ const CompareProducts = () => {
     onSelect: handleAdd,
   }));
 
-  console.log("addMoreData:", addMoreData);
+  // console.log("addMoreData:", addMoreData);
 
   const renderCompareView = () => (
     <Row gutter={16}>
